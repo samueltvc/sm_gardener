@@ -9,7 +9,7 @@ shared_scripts {
 }
 
 client_scripts {
-  '@es_extended/locale.lua'
+  '@es_extended/locale.lua',
   'client/*.lua',
   'config.lua'
 }
